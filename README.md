@@ -4,4 +4,4 @@ Flutter仿写个股详情，有兴趣完善这个项目的fork一下，按照腾
 
 ## 效果图
 
- ![image]( https://github.com/CallMeDK/flutter_stock_project/sotckDetail.jpg)
+ ![image]( https://github.com/CallMeDK/flutter_stock_project/blob/main/sotckDetail.gif)
